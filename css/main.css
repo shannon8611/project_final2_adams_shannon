@@ -48,3 +48,26 @@ p
 button {
     font-family: 'Archivo Narrow', sans-serif;
 }
+
+p {
+    margin-top: -10px;
+}
+
+a:link {
+    color: #00a99e;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f4ec1f;
+}
+
+a:active {
+    color: #818181;
+    text-decoration: none;
+}
