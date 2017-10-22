@@ -4,9 +4,6 @@
     padding: 0;
 }
 
-html {
-    font-family: 'Archivo Narrow', sans-serif;
-}
 
 #container {
     margin: auto;
@@ -33,4 +30,21 @@ nav ul li {
     display: inline;
     padding: 5px;
     font-size: 1em;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+h1
+h2
+li a
+p
+button {
+    font-family: 'Archivo Narrow', sans-serif;
 }
