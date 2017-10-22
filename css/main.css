@@ -71,3 +71,12 @@ a:active {
     color: #818181;
     text-decoration: none;
 }
+
+#logo img {
+    width: 100%;
+}
+
+#photos img {
+    width: 100%;
+    margin: 5px 0 5px 0;
+}
