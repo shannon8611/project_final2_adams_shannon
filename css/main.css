@@ -22,3 +22,15 @@ header {
     margin: auto;
     width: 80%;
 }
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    padding: 5px;
+    font-size: 1em;
+}
