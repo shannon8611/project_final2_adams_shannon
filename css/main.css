@@ -80,3 +80,10 @@ a:active {
     width: 100%;
     margin: 5px 0 5px 0;
 }
+
+#colors {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin: auto;
+    max-width: 342px;
+}
