@@ -87,3 +87,22 @@ a:active {
     margin: auto;
     max-width: 342px;
 }
+
+#button {
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+button {
+    background-color: #00a99e;
+    width: 185px;
+    height: 67px;
+    font-color: #ffffff;
+    font-size: 1.25em;
+}
+
+button:hover {
+    background-color: #818181;
+    width: 185px;
+    height: 67px;
+}
