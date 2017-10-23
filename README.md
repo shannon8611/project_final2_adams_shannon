@@ -6,8 +6,8 @@
 ## Links
 * [GitHub](https://github.com/shannon8611/project_final2_adams_shannon.git)
 * [Web Host](http://www.shannoneadams.com/project_final2_adams_shannon)
-* [W3C Validation]
-* [HTML5 Outliner]
+* [W3C Validation](https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.shannoneadams.com%2Fproject_final2_adams_shannon%2F)
+* [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.shannoneadams.com%2Fproject_final2_adams_shannon%2F)
 
 
 
@@ -20,4 +20,4 @@
 and in the syllabus.
 
 ## Comments
-* No comments.
+* I'm still having some difficulties with the html5 outlines for sections.
