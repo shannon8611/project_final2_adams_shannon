@@ -54,6 +54,10 @@ p {
     margin-top: 10px;
 }
 
+h3 {
+    padding-top: 35px;
+}
+
 a:link {
     color: #818181;
     text-decoration: none;
@@ -154,13 +158,18 @@ button:hover {
         margin-top: 10px;
     }
 
-    #cat2 {
+    #cat1 {
         width: 40%;
         float: left;
     }
 
-    #cat3 {
+    #cat2 {
         width: 40%;
         float: right;
+    }
+
+    #cat3 {
+        width: 40%;
+        float: left;
     }
 }
