@@ -1,8 +1,5 @@
 # Final Part 2
 
-
-![Responsive Design](https://websitesdepot-websitesdepotinc1.netdna-ssl.com/wp-content/uploads/2015/07/Responsive-Website-Design.jpg)
-
 ## Links
 * [GitHub](https://github.com/shannon8611/project_final2_adams_shannon.git)
 * [Web Host](http://www.shannoneadams.com/project_final2_adams_shannon)
